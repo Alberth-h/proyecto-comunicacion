@@ -1,0 +1,36 @@
+.center {
+    position: relative;
+    margin-left: 50px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.textNavbar {
+    color: white;
+}
+
+.cuadro{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: lightgrey;
+    width: 500px;
+    height: 200px;
+    margin-bottom: 30px;
+    border: 5px solid gray;
+    text-align: justify;
+}
+
+.foto{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+}
+
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+}
