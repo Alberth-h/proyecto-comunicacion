@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/proyecto-comunicacion/static/css/main.7d46925d.chunk.css",
+    "main.js": "/proyecto-comunicacion/static/js/main.241199c7.chunk.js",
+    "main.js.map": "/proyecto-comunicacion/static/js/main.241199c7.chunk.js.map",
+    "runtime-main.js": "/proyecto-comunicacion/static/js/runtime-main.357737b1.js",
+    "runtime-main.js.map": "/proyecto-comunicacion/static/js/runtime-main.357737b1.js.map",
+    "static/css/2.150d169a.chunk.css": "/proyecto-comunicacion/static/css/2.150d169a.chunk.css",
+    "static/js/2.53b0ef0c.chunk.js": "/proyecto-comunicacion/static/js/2.53b0ef0c.chunk.js",
+    "static/js/2.53b0ef0c.chunk.js.map": "/proyecto-comunicacion/static/js/2.53b0ef0c.chunk.js.map",
+    "static/js/3.64c93446.chunk.js": "/proyecto-comunicacion/static/js/3.64c93446.chunk.js",
+    "static/js/3.64c93446.chunk.js.map": "/proyecto-comunicacion/static/js/3.64c93446.chunk.js.map",
+    "index.html": "/proyecto-comunicacion/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/proyecto-comunicacion/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.7d46925d.chunk.css.map": "/proyecto-comunicacion/static/css/main.7d46925d.chunk.css.map",
+    "static/js/2.53b0ef0c.chunk.js.LICENSE.txt": "/proyecto-comunicacion/static/js/2.53b0ef0c.chunk.js.LICENSE.txt",
+    "static/media/AR.fd7795ad.png": "/proyecto-comunicacion/static/media/AR.fd7795ad.png",
+    "static/media/Game_1.194efc68.png": "/proyecto-comunicacion/static/media/Game_1.194efc68.png",
+    "static/media/Game_2.5da8a801.jpeg": "/proyecto-comunicacion/static/media/Game_2.5da8a801.jpeg",
+    "static/media/IA1.3199c928.jpg": "/proyecto-comunicacion/static/media/IA1.3199c928.jpg",
+    "static/media/IA2.c4c4abae.png": "/proyecto-comunicacion/static/media/IA2.c4c4abae.png",
+    "static/media/Imp1.ffc3c86c.png": "/proyecto-comunicacion/static/media/Imp1.ffc3c86c.png",
+    "static/media/Imp2.6b2b9023.png": "/proyecto-comunicacion/static/media/Imp2.6b2b9023.png",
+    "static/media/R1.62edaace.jpg": "/proyecto-comunicacion/static/media/R1.62edaace.jpg",
+    "static/media/logo.14a55bd7.png": "/proyecto-comunicacion/static/media/logo.14a55bd7.png",
+    "static/media/logo.6ce24c58.svg": "/proyecto-comunicacion/static/media/logo.6ce24c58.svg",
+    "static/media/logo2.0fc1deef.png": "/proyecto-comunicacion/static/media/logo2.0fc1deef.png",
+    "static/media/yo.d6acd07d.jpg": "/proyecto-comunicacion/static/media/yo.d6acd07d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.357737b1.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.53b0ef0c.chunk.js",
+    "static/css/main.7d46925d.chunk.css",
+    "static/js/main.241199c7.chunk.js"
+  ]
+}
