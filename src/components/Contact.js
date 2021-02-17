@@ -7,6 +7,7 @@ const Contact = () => {
        <div className="center">
          <h3 style={{ textAlign:'center' }}>Mi contacto e información.</h3>
          <img src={yo} alt="yo" className="foto"/>
+         <br/>
          <div className="cuadro">
             <p>Nombre: Jesús Alberto Hoyos Félix.</p>
             <p>Ocupación: Estudiante de Ing. Producción Multimedia en Universidad Las Salle Noroeste y desarrollador en backend en Media Area Solutions.</p>

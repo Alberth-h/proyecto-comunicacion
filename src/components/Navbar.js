@@ -18,23 +18,23 @@ function Navbar() {
                 <ul className="navbar-nav m-auto">
                     <li class="nav-item active">
                         <a className="nav-link text-white text-uppercase ml-5" href="#">
-                            <NavLink to="/" className="textNavbar">INICIO</NavLink>
+                            <NavLink to="/proyecto-comunicacion" className="textNavbar">INICIO</NavLink>
                             <span class="sr-only">(current)</span>
                         </a>
                     </li>
                     <li className="nav-item">
                         <a class="nav-link text-white text-uppercase ml-5" href="#">
-                            <NavLink to="/about" className="textNavbar">¿QUE OFREZCO?</NavLink>
+                            <NavLink to="/proyecto-comunicacion/about" className="textNavbar">¿QUE OFREZCO?</NavLink>
                         </a>
                     </li>
                     <li className="nav-item">
                         <a class="nav-link text-white text-uppercase ml-5" href="#">
-                            <NavLink to="/work" className="textNavbar">¿QUE HAGO?</NavLink>
+                            <NavLink to="/proyecto-comunicacion/work" className="textNavbar">¿QUE HAGO?</NavLink>
                         </a>
                     </li>
                     <li className="nav-item">
                         <a class="nav-link text-white text-uppercase ml-5" href="#">
-                            <NavLink to="/contact" className="textNavbar">CONTACTO E INFORMACION</NavLink>
+                            <NavLink to="/proyecto-comunicacion/contact" className="textNavbar">CONTACTO E INFORMACION</NavLink>
                         </a>
                     </li>
                 </ul>
